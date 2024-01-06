@@ -1,0 +1,5 @@
+pandas
+numpay
+plotly
+scikit-learn
+streamlit
